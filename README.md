@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요~ 방문을 환영해요~ 👋
 
 <!--
 **leetrex/leetrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
